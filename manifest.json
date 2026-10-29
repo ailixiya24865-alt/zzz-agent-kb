@@ -1,0 +1,46 @@
+{
+  "name": "zzz-agent-kb",
+  "display_name": "绝区零 Agent 知识库",
+  "version": "1.0.0",
+  "game": "Zenless Zone Zero",
+  "game_versions": {
+    "from": "1.0",
+    "to": "3.3"
+  },
+  "snapshot_date": "2026-10-21",
+  "updated_at": "2026-10-29",
+  "language": "zh-CN",
+  "entrypoints": {
+    "agent": "AGENT.md",
+    "skill": "SKILL.md",
+    "index": "00-索引.md"
+  },
+  "counts": {
+    "versions": 21,
+    "released_agents": 61,
+    "story_seasons": 3
+  },
+  "files": [
+    "README.md",
+    "AGENT.md",
+    "SKILL.md",
+    "00-索引.md",
+    "01-世界设定.md",
+    "02-战斗系统.md",
+    "03-养成系统.md",
+    "04-玩法与模式.md",
+    "05-版本编年史.md",
+    "06-代理人图鉴.md",
+    "07-剧情章节.md",
+    "08-抽卡与经济.md",
+    "09-配队与强度.md",
+    "10-术语表.md",
+    "11-常见问题.md",
+    "CHANGELOG.md",
+    "SOURCES.md",
+    "data/agents.csv",
+    "data/versions.csv",
+    "data/README.md"
+  ],
+  "disclaimer": "非官方整理，游戏内文本为准；不含拆包数据。"
+}
